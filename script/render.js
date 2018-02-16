@@ -10,7 +10,7 @@ let output = `
 
 > A list of ${ologies.length} -ology words and their meanings.
 
-Inspired by the [Ologies podcast](https://www.alieward.com/ologies/) by Alie Ward.
+Inspired by the insightful and hilarious [Ologies podcast](https://www.alieward.com/ologies/) by Alie Ward.
 
 `
 
