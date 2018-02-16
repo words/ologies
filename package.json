@@ -1,0 +1,16 @@
+{
+  "name": "ologies",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "an-array-of-english-words": "^1.3.1",
+    "bottleneck": "^2.0.1",
+    "lodash": "^4.17.5",
+    "wiktionary": "^1.2.0",
+  },
+  "scripts": {
+    "collect": "node script/collect.js",
+    "render": "node script/render.js"
+  }
+}
