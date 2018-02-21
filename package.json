@@ -7,10 +7,12 @@
     "an-array-of-english-words": "^1.3.1",
     "bottleneck": "^2.0.1",
     "lodash": "^4.17.5",
-    "wiktionary": "^1.2.0",
+    "wikipedia-titles": "^1.1.0",
+    "wiktionary": "^1.2.0"
   },
   "scripts": {
     "collect": "node script/collect.js",
-    "render": "node script/render.js"
+    "render": "node script/render.js",
+    "wikipedia-titles": "node script/wikipedia-titles.js > wikipedia.md"
   }
 }
