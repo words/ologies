@@ -2,11 +2,7 @@
 
 # Ologies
 
-> A list of 506 -ology words and their meanings.
-
-See also [34969 oligies on Wikipedia](wikipedia.md)
-
-id="mw-content-text"
+This is list of over 500 _-ology_ words and their meanings. See also [34969 oligies on Wikipedia](wikipedia.md)
 
 Inspired by the [Ologies podcast](https://www.alieward.com/ologies/) by Alie Ward.
 
