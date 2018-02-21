@@ -2,9 +2,11 @@
 
 # Ologies
 
-This is list of over 500 _-ology_ words and their meanings. See also [34969 oligies on Wikipedia](wikipedia.md)
+> A list of over 500 _-ology_ words and their meanings. See also [34969 oligies on Wikipedia](wikipedia.md)
+> 
+> Inspired by the [Ologies podcast](https://www.alieward.com/ologies/) by Alie Ward.
 
-Inspired by the [Ologies podcast](https://www.alieward.com/ologies/) by Alie Ward.
+---
 
 - [acarology](https://en.wikipedia.org/wiki/acarology) Etymology: acaro- +‎ -logy; acarology (uncountable); The study of ticks and mites.; 2001: Acarology Bulletin aims at providing members of Systematic and Applied Acarology Society with information about mites and ticks and enhancing the communication among members. — Hu, Dr. Renjie and Zhang, Dr. Zhi-Qiang. Acarology Bulletin: The Newsletter of the Systematic and Applied Acarology Society. Retrieved 2005-03-20.; 2003: The International Journal of Acarology publishes original research work on a wide variety of acarological subjects including mite and tick behavior, biochemistry, biology, control, ecology, evolution, morphology, physiology, systematics and taxonomy. — Scope note for the International Journal of Acarology. Retrieved 2005-03-20.; Translations; Anagrams: Cayo Largo
 - [accidentology](https://en.wikipedia.org/wiki/accidentology) Etymology: accident +‎ -logy; accidentology (uncountable); The study of accidents, especially of motor vehicle accidents; Related terms; accidentologist; Translations
